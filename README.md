@@ -1,4 +1,4 @@
-![image](https://github.com/D4-80593-meetvasani/Employee_Management_System_Spring_Boot_Backend_React_Frontend/assets/90303327/437de178-2e5a-480c-ba2b-a5075ba81b1b)# Employee Management System - Spring Boot Backend + React Frontend
+# Employee Management System - Spring Boot Backend + React Frontend
 
 ## Description:
 Efficiently manage your workforce with our integrated system. The backend, developed using Spring Boot MVC, employs a robust architecture with JPA repository for efficient data handling. The React frontend ensures a modern, user-friendly interface. Explore and test functionalities effortlessly with Swagger UI, where comprehensive screenshots demonstrate each API endpoint. Manage, update, and retrieve employee data effortlessly in this cohesive and well-tested system.
